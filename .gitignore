@@ -51,3 +51,5 @@ jbsub_logs/
 .vim/
 ctags
 *.swp
+
+/build
