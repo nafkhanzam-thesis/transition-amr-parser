@@ -4,7 +4,7 @@ VERSION = '0.5.2'
 
 # this is what usually goes on requirements.txt
 install_requires = [
-    'torch==1.10.1',
+    # 'torch==1.10.1',
     'torch-scatter==2.0.9',
     'tqdm',
     'fairseq==0.10.0',
