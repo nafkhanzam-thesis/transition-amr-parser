@@ -10,7 +10,7 @@ install_requires = [
     'fairseq==0.10.0',
     'packaging',
     'requests',
-    'numpy==1.23.5'
+    'numpy==1.23.5',
     # for data (ELMO embeddings)
     'h5py',
     'python-dateutil',
