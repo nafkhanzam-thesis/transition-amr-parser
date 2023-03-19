@@ -7,9 +7,10 @@ install_requires = [
     'torch==1.10.1',
     'torch-scatter==2.0.9',
     'tqdm',
-    'fairseq==0.10.2',
+    'fairseq==0.10.0',
     'packaging',
     'requests',
+    'numpy==1.23.5'
     # for data (ELMO embeddings)
     'h5py',
     'python-dateutil',
